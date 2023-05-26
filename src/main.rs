@@ -725,5 +725,5 @@ fn main() {
     // smart_pointer_basics();
     // box_basics();
     // concurrency_basics();
-    concurrency_example();
+    // concurrency_example();
 }
